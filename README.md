@@ -1,4 +1,3 @@
-# Power BI
 ## Summary
 In this project I reviewed Power BI functionality.  
 
@@ -12,9 +11,10 @@ Analyzed data with DAX by calculating columns and explicit measures. Used condit
 
 Visualized data with objects, charts, conditional formatting, tooltips, filtering, drill through filters, interactive visualizations, bookmarks, what-If parameters, WordCloud.  
 
-All details can be found below and in [“My project.pbix” file].
+All details can be found below and in [“My project.pbix” file], data [source].
 
 [“My project.pbix” file]: <https://github.com/Geduifx/Power-BI/blob/main/My%20project.pbix>
+[source]: <https://github.com/Geduifx/Power-BI/tree/main/Data%20source>
 
 ## Report and Model
 
